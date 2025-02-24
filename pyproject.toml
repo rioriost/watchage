@@ -28,6 +28,7 @@ build-backend = "hatchling.build"
 include = [
   "app.py",
   "templates/index.html",
+  "requirements.txt"
 ]
 exclude = [
   "uv.lock",
