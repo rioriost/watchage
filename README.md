@@ -3,6 +3,11 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.13%2B-blue)
 
+## Obsoleted
+
+Integrated into [AGEFreighter](https://github.com/rioriost/agefreighter).
+watchage is no longer maintained.
+
 ## Overview
 
 WatchAGE is a visualizer for Apache AGE.
